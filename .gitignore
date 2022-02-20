@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# Toolchain files:
+*~ 
+.ccls-cache
+*.dSYM
+compile_commands.json
+
