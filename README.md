@@ -1,2 +1,2 @@
 # C++ Wordle
-A cli wordle app written in C++
+A cli Wordle app written in C++
