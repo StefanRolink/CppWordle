@@ -44,7 +44,7 @@ string get_word()
     string word_buffer;
     getline(words_file, word_buffer);
 
-    cout << "Found word " << word_buffer << " at pos " << ran << endl;
+    // cout << "Found word " << word_buffer << " at pos " << ran << endl;
 
     return word_buffer;      
   }
