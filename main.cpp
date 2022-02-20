@@ -117,7 +117,7 @@ int main(int argc, char * argv[])
           break;
         }
 
-        cout << "input valid!" << endl;
+        // cout << "input valid!" << endl;
         cout << get_hint_string(input, answer) << endl << endl; 
         if(tries_left > 0)
         {
